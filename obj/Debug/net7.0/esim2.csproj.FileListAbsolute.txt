@@ -1,0 +1,15 @@
+C:\codes\cyber_cloud\esim2\bin\Debug\net7.0\esim2.exe
+C:\codes\cyber_cloud\esim2\bin\Debug\net7.0\esim2.deps.json
+C:\codes\cyber_cloud\esim2\bin\Debug\net7.0\esim2.runtimeconfig.json
+C:\codes\cyber_cloud\esim2\bin\Debug\net7.0\esim2.dll
+C:\codes\cyber_cloud\esim2\bin\Debug\net7.0\esim2.pdb
+C:\codes\cyber_cloud\esim2\obj\Debug\net7.0\esim2.csproj.AssemblyReference.cache
+C:\codes\cyber_cloud\esim2\obj\Debug\net7.0\esim2.GeneratedMSBuildEditorConfig.editorconfig
+C:\codes\cyber_cloud\esim2\obj\Debug\net7.0\esim2.AssemblyInfoInputs.cache
+C:\codes\cyber_cloud\esim2\obj\Debug\net7.0\esim2.AssemblyInfo.cs
+C:\codes\cyber_cloud\esim2\obj\Debug\net7.0\esim2.csproj.CoreCompileInputs.cache
+C:\codes\cyber_cloud\esim2\obj\Debug\net7.0\esim2.dll
+C:\codes\cyber_cloud\esim2\obj\Debug\net7.0\refint\esim2.dll
+C:\codes\cyber_cloud\esim2\obj\Debug\net7.0\esim2.pdb
+C:\codes\cyber_cloud\esim2\obj\Debug\net7.0\esim2.genruntimeconfig.cache
+C:\codes\cyber_cloud\esim2\obj\Debug\net7.0\ref\esim2.dll
